@@ -1,3 +1,3 @@
-export function adder(x: number, y:number): number {
+export function adder(y: number, x:number): number {
     return x+y;
 }
